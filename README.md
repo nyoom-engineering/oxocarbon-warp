@@ -1,7 +1,7 @@
 # <img src="./assets/output-3840x1330-shadow.png"> 
 
 <figure>
-  <img alt="" src="https://github.com/user-attachments/assets/0cb2aa5e-81ed-4b60-bfac-4bdba8249592" />
+  <img alt="" src="https://github.com/user-attachments/assets/4009fca3-ce17-408c-b010-1f5375d69377" />
   <figcaption>Oxocarbon Dark</figcaption>
 </figure>
 
@@ -9,7 +9,7 @@
 <br>
 
 <figure>
-  <img alt="" src="https://github.com/user-attachments/assets/5b31e536-810e-44c1-814b-b3a99ae62bbe" />
+  <img alt="" src="https://github.com/user-attachments/assets/25247afb-88dc-457e-b513-fc9508b7a968" />
   <figcaption>Oxocarbon OLED</figcaption>
 </figure>
 
