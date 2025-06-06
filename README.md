@@ -2,7 +2,6 @@
 
 <figure>
   <img alt="" src="https://github.com/user-attachments/assets/4009fca3-ce17-408c-b010-1f5375d69377" />
-  <figcaption>Oxocarbon Dark</figcaption>
 </figure>
 
 <br>
@@ -10,7 +9,6 @@
 
 <figure>
   <img alt="" src="https://github.com/user-attachments/assets/25247afb-88dc-457e-b513-fc9508b7a968" />
-  <figcaption>Oxocarbon OLED</figcaption>
 </figure>
 
 <br>
