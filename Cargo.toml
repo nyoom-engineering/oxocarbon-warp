@@ -1,0 +1,11 @@
+[package]
+name = "toml2yaml"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "Convert TOML theme files to YAML format"
+
+[dependencies]
+toml = "0.8"
+serde_yaml = "0.9"
+serde = { version = "1.0", features = ["derive"] }

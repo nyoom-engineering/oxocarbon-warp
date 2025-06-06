@@ -1,0 +1,28 @@
+accent: '#ff7eb6'
+background: '#161616'
+colors:
+  focusBorder: '#262626'
+  foreground: '#f2f4f8'
+cursor: '#ffffff'
+details: darker
+foreground: '#f2f4f8'
+name: Oxocarbon Dark
+terminal_colors:
+  bright:
+    black: '#161616'
+    blue: '#08bdba'
+    cyan: '#33b1ff'
+    green: '#ff7eb6'
+    magenta: '#82cfff'
+    red: '#78a9ff'
+    white: '#dde1e6'
+    yellow: '#42be65'
+  normal:
+    black: '#161616'
+    blue: '#08bdba'
+    cyan: '#33b1ff'
+    green: '#ff7eb6'
+    magenta: '#82cfff'
+    red: '#78a9ff'
+    white: '#dde1e6'
+    yellow: '#42be65'

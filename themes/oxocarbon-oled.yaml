@@ -1,0 +1,28 @@
+accent: '#ff7eb6'
+background: '#000000'
+colors:
+  focusBorder: '#161616'
+  foreground: '#f2f4f8'
+cursor: '#ffffff'
+details: darker
+foreground: '#f2f4f8'
+name: Oxocarbon Oled
+terminal_colors:
+  bright:
+    black: '#000000'
+    blue: '#08bdba'
+    cyan: '#33b1ff'
+    green: '#ff7eb6'
+    magenta: '#82cfff'
+    red: '#78a9ff'
+    white: '#dde1e6'
+    yellow: '#42be65'
+  normal:
+    black: '#000000'
+    blue: '#08bdba'
+    cyan: '#33b1ff'
+    green: '#ff7eb6'
+    magenta: '#82cfff'
+    red: '#78a9ff'
+    white: '#dde1e6'
+    yellow: '#42be65'
